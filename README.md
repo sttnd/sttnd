@@ -101,7 +101,7 @@ Currently, I am working on improving my knowledge of:
 
   <!-- SOCIAL LINKS -->
 
-<i><h3 align="right">Connect with me</h3></i>
+<i><h3 align="center">Connect with me</h3></i>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arif-pramudya-88770a275">
