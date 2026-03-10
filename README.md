@@ -138,7 +138,7 @@ Currently, I am working on improving my knowledge of:
 
 commits eating snake 🐍
 
-<h2 align="center">Save my commits from 🐍nakey 🥺</h2>
+<!-- <h2 align="center">Save my commits from 🐍nakey 🥺</h2>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
