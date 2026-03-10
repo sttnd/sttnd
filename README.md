@@ -103,7 +103,7 @@ Currently, I am working on improving my knowledge of:
 
 <i><h3 align="right">Connect with me</h3></i>
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/arif-pramudya-88770a275">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>>
@@ -136,7 +136,7 @@ Currently, I am working on improving my knowledge of:
 
 <br><br>
 
-commits eating snake 🐍
+<!-- commits eating snake 🐍
 
 <!-- <h2 align="center">Save my commits from 🐍nakey 🥺</h2>
 
